@@ -1,6 +1,8 @@
 # Types_of_queries_on_joins
+```sql
 create database college;
 use college;
+```
 
 create table student(
 id int primary key,
